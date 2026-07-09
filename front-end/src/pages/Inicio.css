@@ -1,0 +1,37 @@
+*{
+    padding: 3px;
+}
+
+.dashboard-container {
+    padding: 10px;
+
+    h2{
+        margin-bottom: 10px;
+        margin-top: 0px;
+    }
+}
+
+.card {
+    margin-top: 15px;
+    background: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, .1);
+}
+
+.risk-title {
+    color: #d62828;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.security {
+    font-size: 22px;
+}
+
+.buscador{
+    border-radius: 10px;
+    background: rgb(131, 131, 131); 
+    
+}

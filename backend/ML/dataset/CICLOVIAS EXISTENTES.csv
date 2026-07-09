@@ -1,0 +1,336 @@
+DEPARTAMENTO;PROVINCIA;DISTRITO;UBIGEO;CANTIDAD;NOMBRE_CICLOVIA;TRAMO;DISTRITO_CICLOVIA;TIPO_VIA;LONGITUD_KM;FECHA_CORTE
+LIMA;LIMA;LIMA;150101;C-01;Ciclovía Av. Carlos Izaguirre - Los Olivos;Entre Av.Universitaria y Av. Panamericana Norte;LOS OLIVOS;METROPOLITANA;1.80;20231123
+LIMA;LIMA;LIMA;150101;C-01;Ciclovía Av. Carlos Izaguirre - Independencia;Entre Av. Panamericana Norte y Av. Tupac Amaru;INDEPENDENCIA;METROPOLITANA;0.95;20231123
+LIMA;LIMA;LIMA;150101;C-02;Ciclovía Av. Los Alisos - Los Olivos;Entre Av. Panamericana Norte y Av. Universitaria;LOS OLIVOS;METROPOLITANA;1.38;20231123
+LIMA;LIMA;LIMA;150101;C-02;Ciclovía Av. Los Alisos - San Martín de Porres;Entre Av. Universitaria y Av. Canta Callao;SAN MARTIN DE PORRES;METROPOLITANA;1.97;20231123
+LIMA;LIMA;LIMA;150101;C-02;Ciclovía Av. Los Alisos - Independencia;Entre Av. Tupac Amarú y Av. Panamericana Norte;INDEPENDENCIA;LOCAL;0.42;20231123
+LIMA;LIMA;LIMA;150101;C-03;Ciclovía Av. Tomas Valle - Los Olivos    ;Entre Av. Panamericana Norte y Av. Universitaria;LOS OLIVOS;METROPOLITANA;0.25;20231123
+LIMA;LIMA;LIMA;150101;C-03;Ciclovía Av. Tomas Valle - Independencia;Entre Av. Tupac Amarú y Av. Panamericana Norte;INDEPENDENCIA;METROPOLITANA;0.90;20231123
+LIMA;LIMA;LIMA;150101;C-03;Ciclovía Av. Tomas Valle - San Martín de Porres;Entre Av. Universitaria y Av. Angelica Gamarra;SAN MARTIN DE PORRES;METROPOLITANA;2.99;20231123
+LIMA;LIMA;LIMA;150101;C-04;Ciclovía Av. Universitaria - Los Olivos;Entre Av. Metropolitana y Av. Los Alisos;LOS OLIVOS;METROPOLITANA;3.30;20231123
+LIMA;LIMA;LIMA;150101;C-04;Ciclovía Av. Universitaria - San Martín de Porres;Entre Av. Los Alisos y Av. Morales Duarez;SAN MARTIN DE PORRES;METROPOLITANA;6.30;20231123
+LIMA;LIMA;LIMA;150101;C-04;Ciclovía Av. Universitaria - Lima Cercado;Entre Av. Morales Duares y Ca. Edmundo Moreau;LIMA CERCADO;METROPOLITANA;3.17;20231123
+LIMA;LIMA;LIMA;150101;C-04;Ciclovía Av. Universitaria - Pueblo Libre;Entre Av. La Marina y Av. Mariano Cornejo;PUEBLO LIBRE;METROPOLITANA;1.00;20231123
+LIMA;LIMA;LIMA;150101;C-04;Ciclovía Av. Universitaria - San Miguel;Entre Av Venezuela y Av. La Marina;SAN MIGUEL;METROPOLITANA;0.15;20231123
+LIMA;LIMA;LIMA;150101;C-05;Ciclovía Av. Tupac Amarú;Entre  Av . 18 de  Enero y Av. Tomas Valle;INDEPENDENCIA;METROPOLITANA;0.40;20231123
+LIMA;LIMA;LIMA;150101;C-05;Ciclovía Av. Tupac Amarú;Entre Av. Caquetá y Av. 18 de Enero ;RIMAC;METROPOLITANA;2.00;20231123
+LIMA;LIMA;LIMA;150101;C-06;Ciclovía Av. José Granda - San Martín de Porres;Entre Av. Condevilla y Av. Panamericana Norte;SAN MARTIN DE PORRES;METROPOLITANA;3.89;20231123
+LIMA;LIMA;LIMA;150101;C-07;Ciclovía Av. Costa Verde - Barranco;Entre Playa Las Sombrillas y Bajada Armendariz;BARRANCO;METROPOLITANA;1.92;20231123
+LIMA;LIMA;LIMA;150101;C-07;Ciclovía Av. Costa Verde - Magdalena del Mar;Entre Av. Salaverry y Jr. Yungay;MAGDALENA DEL MAR;METROPOLITANA;4.54;20231123
+LIMA;LIMA;LIMA;150101;C-07;Ciclovía Av. Costa Verde - Miraflores;Entre Bajada Armendariz y Complejo Manuel Bonilla;MIRAFLORES;METROPOLITANA;4.20;20231123
+LIMA;LIMA;LIMA;150101;C-07;Ciclovía Av. Costa Verde - San Isidro;Entre Complejo Manuel Bonilla y Av. Salaverry;SAN ISIDRO;METROPOLITANA;0.91;20231123
+LIMA;LIMA;LIMA;150101;C-07;Ciclovía Av. Costa Verde - San Miguel;Entre Jr. Yungay y Ca. Aviación;SAN MIGUEL;METROPOLITANA;5.47;20231123
+LIMA;LIMA;LIMA;150101;C-07;Ciclovía Av. Costa Verde - Chorrillos;Entre Playa Agua Dulce y Playa Las Sombrillas;CHORRILLOS;METROPOLITANA;0.43;20231123
+LIMA;LIMA;LIMA;150101;C-08;Ciclovía Óvalo Plaza de la Bandera-Breña;Entre Av. Tingo María y Av. Mariano Cornejo;BREÑA;METROPOLITANA;0.10;20231123
+LIMA;LIMA;LIMA;150101;C-08;Ciclovía Óvalo Plaza de la Bandera-Lima Cercado;Entre Av. Mariano Cornejo y Av. Tingo María;LIMA CERCADO;METROPOLITANA;0.14;20231123
+LIMA;LIMA;LIMA;150101;C-08;Ciclovía Óvalo Plaza de la Bandera-Pueblo Libre;Entre Av. Mariano Cornejo y Av. Mariano Cornejo;PUEBLO LIBRE;METROPOLITANA;0.30;20231123
+LIMA;LIMA;LIMA;150101;C-09;Ciclovía Av Salaverry - Jesús María;Entre Óvalo Jorge Chavez y Jr. Nazca;JESUS MARIA;METROPOLITANA;0.64;20231123
+LIMA;LIMA;LIMA;150101;C-09;Ciclovía Av. Salaverry - Jesús María;Entre Av. 28 de Julio y Av. Guillermo Prescott;JESUS MARIA;METROPOLITANA;3.64;20231123
+LIMA;LIMA;LIMA;150101;C-09;Ciclovía Av. Salaverry - San Isidro;Entre Av. Guillermo Prescott y Av. Del Ejercito;SAN ISIDRO;METROPOLITANA;1.22;20231123
+LIMA;LIMA;LIMA;150101;C-10;Ciclovía Av. 28 de Julio - Jesús María;Entre Av. Salaverry y Av. República de Chile;JESUS MARIA;METROPOLITANA;0.16;20231123
+LIMA;LIMA;LIMA;150101;C-10;Ciclovía Av. 28 de Julio - Lima Cercado;Entre Av. República de Chile y Av. Garcilaso de la Vega;LIMA CERCADO;METROPOLITANA;0.02;20231123
+LIMA;LIMA;LIMA;150101;C-11;Ciclovía Óvalo Jorge Chavez;Entre Av. 28 de Julio y Av. 28 de Julio;JESUS MARIA;METROPOLITANA;0.10;20231123
+LIMA;LIMA;LIMA;150101;C-12;Ciclovía Av. Sanchez Carrión;Entre Av. Salaverry y Av. Brasil;JESUS MARIA;METROPOLITANA;1.30;20231123
+LIMA;LIMA;LIMA;150101;C-13;Ciclovía Av. Canadá-La Victoria;Entre Av. Paseo de la República y Av. Luis Aldana;LA VICTORIA;METROPOLITANA;1.95;20231123
+LIMA;LIMA;LIMA;150101;C-13;Ciclovía Av. Canadá - San Borja;Entre Av. Luis Aldana y Av. Rosa Toro;SAN BORJA;METROPOLITANA;1.85;20231123
+LIMA;LIMA;LIMA;150101;C-13;Ciclovía Av. Canadá-San Luis;Entre Av. Rosa Toro y Av. Circunvalación;SAN LUIS;METROPOLITANA;0.60;20231123
+LIMA;LIMA;LIMA;150101;C-14;Ciclovía Av. Arequipa-Lima Cercado;Entre Ca. Corpancho y Jr. Manuel Segura;LIMA CERCADO;METROPOLITANA;1.45;20231123
+LIMA;LIMA;LIMA;150101;C-14;Ciclovía Av. Arequipa-Lima Cercado;Entre Ca. Corpancho y Av. 28 de Julio;LIMA CERCADO;METROPOLITANA;0.30;20231123
+LIMA;LIMA;LIMA;150101;C-14;Ciclovía Av. Arequipa-Lince;Entre Jr. Manuel Segura y Av. 2 de Mayo;LINCE;METROPOLITANA;1.25;20231123
+LIMA;LIMA;LIMA;150101;C-14;Ciclovía Av. Arequipa-Miraflores;Entre Av. Andrés Aramburú y Av. Ricardo Palma ;MIRAFLORES;METROPOLITANA;1.75;20231123
+LIMA;LIMA;LIMA;150101;C-14;Ciclovía Av. Arequipa-San Isidro;Entre Av. 2 de Mayo y Av. Andres Aramburu;SAN ISIDRO;METROPOLITANA;1.45;20231123
+LIMA;LIMA;LIMA;150101;C-15;Ciclovía Av. Moralez Duarez- Lima Cercado;Entre Jr. Cecilia Tupac Amaru y Av. Universitaria;LIMA CERCADO;METROPOLITANA;0.54;20231123
+LIMA;LIMA;LIMA;150101;C-16;Ciclovía Av. Oscar Benavides(Av. Colonial)-Lima Cercado;Entre Av. Alfonso Ugarte y Av. Universitaria ;LIMA CERCADO;METROPOLITANA;4.90;20231123
+LIMA;LIMA;LIMA;150101;C-17;Ciclovía Av. La Marina;Entre Av. Brasil y Av. Universitaria;PUEBLO LIBRE;METROPOLITANA;2.50;20231123
+LIMA;LIMA;LIMA;150101;C-18;Ciclovía Av. Mariano Cornejo;Entre Av. Universitaria y Av. Paseo de los Andes;PUEBLO LIBRE;METROPOLITANA;1.70;20231123
+LIMA;LIMA;LIMA;150101;C-19;Ciclovía Av. Paseo de la República (Auxiliar de Via Expresa);Entre Av. Canadá y Ca. Bartolomé Herrera;LINCE;METROPOLITANA;0.30;20231123
+LIMA;LIMA;LIMA;150101;C-20;Ciclovía Av. Aviación - San Borja;Entre Av. Angamos y Av. Canadá;SAN BORJA;METROPOLITANA;3.10;20231123
+LIMA;LIMA;LIMA;150101;C-21;Ciclovía Av. Parque del Norte - San Borja;Entre Jr. Federico Remington y Av. Guardia Civil;SAN BORJA;METROPOLITANA;0.41;20231123
+LIMA;LIMA;LIMA;150101;C-21;Ciclovía Av. Parque del Norte- San Isidro;Entre Av. Guardia Civil y Av. Galvez Barrenechea;SAN ISIDRO;METROPOLITANA;0.54;20231123
+LIMA;LIMA;LIMA;150101;C-21;Ciclovía Av. Parque del Norte - San Isidro;Entre Av. Galvez Barrenechea y Av. Pablo Carriquirry;SAN ISIDRO;LOCAL;0.56;20231123
+LIMA;LIMA;LIMA;150101;C-22;Ciclovía Av. San Luis;Entre Av.Boulevard de Surco y Av. Primavera;SAN BORJA;METROPOLITANA;0.55;20231123
+LIMA;LIMA;LIMA;150101;C-23;Ciclovía Av. Los insurgentes;Entre Av. Venezuela y Av. Los Patriotas;SAN MIGUEL;METROPOLITANA;1.15;20231123
+LIMA;LIMA;LIMA;150101;C-24;Ciclovía Av. Guardía Civil Sur - Santiago de Surco;Entre Jr. Dextre  y Ca. Doña Mercedes;SANTIAGO DE SURCO;METROPOLITANA;1.00;20231123
+LIMA;LIMA;LIMA;150101;C-24;Ciclovía Av. Guardía Civil Sur - Chorrillos;Entre Ca. Doña Mercedes y Av. Defensores del Morro;CHORRILLOS;METROPOLITANA;2.42;20231123
+LIMA;LIMA;LIMA;150101;C-25;Ciclovía Av. Angamos;Entre Av. Caminos del Inca y Av. Aviación;SANTIAGO DE SURCO;METROPOLITANA;0.70;20231123
+LIMA;LIMA;LIMA;150101;C-26;Ciclovía Panamericana Sur (Auxiliar);Entre Av. Separadora Industrial y Pte Santa Rosa;ATE;METROPOLITANA;0.80;20231123
+LIMA;LIMA;LIMA;150101;C-27;Ciclovía Av. Defensores del Morro - Chorrillos;Entre Av. Malecón Grau y Club Paraíso del Sur;CHORRILLOS;METROPOLITANA;9.00;20231123
+LIMA;LIMA;LIMA;150101;C-27;Ciclovía Av. Defensores del Morro - Villa el Salvador;Entre Club Paraíso del Sur y Peaje de Villa;VILLA EL SALVADOR;METROPOLITANA;0.52;20231123
+LIMA;LIMA;LIMA;150101;C-28;Ciclovía Vía Periurbana IV;Entre Av. Portillo Grande y Pampas de Lurín;LURIN;METROPOLITANA;1.41;20231123
+LIMA;LIMA;LIMA;150101;C-29;Ciclovía Av. Antigua Panamericana Sur - Punta Hermosa;Entre Ca. El Pulpo y Av. Antigua Panamericana km 46;PUNTA HERMOSA;METROPOLITANA;4.70;20231123
+LIMA;LIMA;LIMA;150101;C-29;Ciclovía Av. Antigua Panamericana Sur - Punta Negra;Entre Av. Antigua Panamericana km 46 y Av. Cruz de Hueso;PUNTA NEGRA;METROPOLITANA;5.60;20231123
+LIMA;LIMA;LIMA;150101;C-29;Ciclovía Av. Antigua Panamericana Sur - San Bartolo;Entre Av. Cruz de Hueso y Av. Francisco Bolognesi;SAN BARTOLO;METROPOLITANA;2.56;20231123
+LIMA;LIMA;LIMA;150101;C-29;Ciclovía Av. Antigua Panamericana Sur - Santa María del Mar;Entre Av. Francisco Bolognesi y Av. Santa María ;SANTA MARIA DEL MAR;METROPOLITANA;0.10;20231123
+LIMA;LIMA;LIMA;150101;C-30;Ciclovía Av. Salvador Allende - San Juan de Miraflores;Entre Jr. Julio Rodriguez y Av. Jose Carlo Mariategui;SAN JUAN DE MIRAFLORES;METROPOLITANA;1.62;20231123
+LIMA;LIMA;LIMA;150101;C-30;Ciclovía Av. Salvador Allende - Villa María del Triunfo;Entre Av. José Carlos Mariateguí y Av. San josé;VILLA MARIA DEL TRIUNFO;METROPOLITANA;0.29;20231123
+LIMA;LIMA;LIMA;150101;C-31;Ciclovía Jr. Belisario Flores - Lince;Entre Jr. Cápac Yupanqui y Av. Arenales;LINCE;LOCAL;0.67;20231123
+LIMA;LIMA;LIMA;150101;C-31;Ciclovía Jr. Belisario Flores - Jesús María;Entre Av. Salaverry y Jr. Cápac Yupanqui;JESUS MARIA;LOCAL;0.46;20231123
+LIMA;LIMA;LIMA;150101;C-32;Ciclovía Av. Gral. Trinidad Morán - Lince;Entre Jr. Alberto Alexander y Jr. Mama Ocllo;LINCE;LOCAL;0.40;20231123
+LIMA;LIMA;LIMA;150101;C-32;Ciclovía Av. Gral. Trinidad Morán - San Isidro;Entre Jr. Mama Ocllo y Av. Arequipa;SAN ISIDRO;LOCAL;1.00;20231123
+LIMA;LIMA;LIMA;150101;C-33;Ciclovía Jr. José de la Torre Ugarte;Entre Av. Arenales y Av. Arequipa;SAN ISIDRO;LOCAL;0.13;20231123
+LIMA;LIMA;LIMA;150101;C-34;Ciclovia Av. Del Parque sur - San Isidro;Entre Ca. Sur y Av. Galvez Barrenechea ;SAN ISIDRO;METROPOLITANA;0.63;20231123
+LIMA;LIMA;LIMA;150101;C-34;Ciclovia Av. Del Parque Sur - San Borja;Entre Av. Galvez Barrenechea y Av. San Borja Sur ;SAN BORJA;METROPOLITANA;0.43;20231123
+LIMA;LIMA;LIMA;150101;C-35;Ciclovía Av. Andres Avelino Caceres;Entre Av. República de Panamá y Av. Ricardo Palma ;SURQUILLO;LOCAL;0.56;20231123
+LIMA;LIMA;LIMA;150101;C-36;Ciclovía Av. Pizarro ;Entre Av. Prolongación Tacna y Av. Caquetá;RIMAC;METROPOLITANA;1.50;20231123
+LIMA;LIMA;LIMA;150101;C-37;Ciclovía Av. Angelica Gamarra;Entre Av.Universitaria y Av. Tomas Valle;SAN MARTIN DE PORRES;METROPOLITANA;1.00;20231123
+LIMA;LIMA;LIMA;150101;C-38;Ciclovía Av. Habich;Entre Av. Tupac Amaru y Av. Panamericana Norte;SAN MARTIN DE PORRES;METROPOLITANA;1.00;20231123
+LIMA;LIMA;LIMA;150101;C-39;Ciclovía Av. Antunez de Mayolo;Entre Av. Uiniversitaria y Av. Izaguirre;SAN MARTIN DE PORRES;METROPOLITANA;1.70;20231123
+LIMA;LIMA;LIMA;150101;C-40;Ciclovía Av. Las Palmeras;Entre Av. Carlos Izaguirre  y Av. Naranjal;SAN MARTIN DE PORRES;METROPOLITANA;1.40;20231123
+LIMA;LIMA;LIMA;150101;C-41;Ciclovía Av. Balta;Entre Av. República de Panamá y Plaza Barranco;BARRANCO;METROPOLITANA;0.20;20231123
+LIMA;LIMA;LIMA;150101;C-42;Ciclovía Plaza Barranco;Entre Ca. Luna Pizarro y Jr. Lima;BARRANCO;METROPOLITANA;0.21;20231123
+LIMA;LIMA;LIMA;150101;C-43;Ciclovía Av. Arnaldo Márquez;Entre Av Mello franco y av gral canterac;JESUS MARIA;METROPOLITANA;0.70;20231123
+LIMA;LIMA;LIMA;150101;C-44;Ciclovía Av. Garzón;Entre Av. Arnaldo Marquez y gral canterac;JESUS MARIA;METROPOLITANA;0.71;20231123
+LIMA;LIMA;LIMA;150101;C-45;Cíclovia Av. Mello Franco-1;Entre Av. Brasil y Av. Husares de Junín;JESUS MARIA;METROPOLITANA;1.00;20231123
+LIMA;LIMA;LIMA;150101;C-46;Ciclovía Av. Bauzate y Meza;Entre Av. Paseo de la República y Jr. Huánuco;LA VICTORIA;METROPOLITANA;1.96;20231123
+LIMA;LIMA;LIMA;150101;C-47;Ciclovía Óvalo 2 de Mayo;Entre Av. Oscar Benavides y Av. Oscar Benavides;LIMA CERCADO;METROPOLITANA;0.31;20231123
+LIMA;LIMA;LIMA;150101;C-48;Ciclovía Av. Argentina;Entre Av. Ramón Cárcamo y Av. Universitaria.;LIMA CERCADO;METROPOLITANA;2.77;20231123
+LIMA;LIMA;LIMA;150101;C-49;Ciclovía Av. Garcilaso de la Vega;Entre Av. 28 de Julio y Av. Nicolás de Pierola;LIMA CERCADO;METROPOLITANA;1.75;20231123
+LIMA;LIMA;LIMA;150101;C-50;Ciclovía Av. García y García;Entre Av. Colonial y Av. Venezuela;LIMA CERCADO;METROPOLITANA;1.10;20231123
+LIMA;LIMA;LIMA;150101;C-51;Ciclovía Av. Tacna;Entre Av. Nicolás de Pierola y Pte. Trujillo (Río Rimac);LIMA CERCADO;METROPOLITANA;1.00;20231123
+LIMA;LIMA;LIMA;150101;C-52;Ciclovía Av. Amezaga;Entre Av. Universitaria y Av. Venezuela;LIMA CERCADO;METROPOLITANA;0.60;20231123
+LIMA;LIMA;LIMA;150101;C-53;Ciclovía Av. Ferrocarril;Entre Av. Industrial y Av. Universitaria;LIMA CERCADO;METROPOLITANA;0.15;20231123
+LIMA;LIMA;LIMA;150101;C-54;Ciclovía Jr. Madre de Dios ;Entre Av. Arequipa y Auxiliar Vía Expresa Paseo de la República;LIMA CERCADO;LOCAL;0.50;20231123
+LIMA;LIMA;LIMA;150101;C-55;Ciclovía Ca. José Diaz ;Entre Jr. Madre de Dios y Vía Expresa Paseo de la República;LIMA CERCADO;LOCAL;0.55;20231123
+LIMA;LIMA;LIMA;150101;C-56;Ciclovía Bajada Sucre (Bajada Brasil);Entre Av. Costar Verde y Av. Ejercito;MAGDALENA DEL MAR;METROPOLITANA;0.65;20231123
+LIMA;LIMA;LIMA;150101;C-57;Ciclovía Bajada Marbella;Entre Av. Costar Verde y Av. Ejercito;MAGDALENA DEL MAR;METROPOLITANA;0.68;20231123
+LIMA;LIMA;LIMA;150101;C-58;Ciclovía Av. Comandante Espinar;Entre Jr. Yungay y Av. Brasil;MAGDALENA DEL MAR;METROPOLITANA;0.65;20231123
+LIMA;LIMA;LIMA;150101;C-59;Ciclovía Av. Grau;Entre Jr. Yungay y Av. Brasil;MAGDALENA DEL MAR;METROPOLITANA;0.77;20231123
+LIMA;LIMA;LIMA;150101;C-60;Ciclovía Av. Javier Prado;Entre Av. Salaverry y Av. Brasil;MAGDALENA DEL MAR;METROPOLITANA;1.36;20231123
+LIMA;LIMA;LIMA;150101;C-61;Ciclovía Av. 28 de Julio - Miraflores;Entre Av. Armendariz y Av. Malecón 28 de Julio;MIRAFLORES;METROPOLITANA;1.11;20231123
+LIMA;LIMA;LIMA;150101;C-62;Ciclovía Av. José Pardo;Entre Av. Arequipa y Malecon Cisneros (Parque Grau );MIRAFLORES;METROPOLITANA;1.61;20231123
+LIMA;LIMA;LIMA;150101;C-63;Ciclovía Av. Larco;Entre Malecon de la Reserva Av. Ricardo Palma;MIRAFLORES;METROPOLITANA;1.39;20231123
+LIMA;LIMA;LIMA;150101;C-64;Ciclovía Av. Malecón Balta;Entre Ca. Jose Galvez y Ca. Bolognesí;MIRAFLORES;METROPOLITANA;0.72;20231123
+LIMA;LIMA;LIMA;150101;C-65;Ciclovía Av. Armendariz;Entre Av. La Paz y Av. San Martín;MIRAFLORES;METROPOLITANA;0.13;20231123
+LIMA;LIMA;LIMA;150101;C-66;Ciclovía Av. Prolongación Tacna;Entre Pte. Trujillo (Río Rimac) y Av. Alcázar;RIMAC;METROPOLITANA;1.35;20231123
+LIMA;LIMA;LIMA;150101;C-67;Ciclovía Av. Prolongación Alcazar;Entre Morro de Arica y Óvalo Prolongación Alcazar;RIMAC;METROPOLITANA;0.87;20231123
+LIMA;LIMA;LIMA;150101;C-68;Ciclovía Óvalo Prolongación Alcazar;Óvalo Prolongación Alcazar;RIMAC;METROPOLITANA;0.20;20231123
+LIMA;LIMA;LIMA;150101;C-69;Ciclovía Av. Circunvalación;Entre Jr. Stephen Crane;SAN BORJA;METROPOLITANA;0.32;20231123
+LIMA;LIMA;LIMA;150101;C-70;Ciclovía Av. De la Floresta;Entre Av. Boulevard de Surco y Av. Esmeralda;SAN BORJA;METROPOLITANA;0.69;20231123
+LIMA;LIMA;LIMA;150101;C-71;Ciclovía de la Esmeralda;Entre Av. De La Floresta y Av. Velacto Astete;SAN BORJA;METROPOLITANA;0.40;20231123
+LIMA;LIMA;LIMA;150101;C-72;Ciclovía Av. Galvez Barrenechea;Entre Av. Angamos y Claudio Caleno;SAN BORJA;METROPOLITANA;0.42;20231123
+LIMA;LIMA;LIMA;150101;C-73;Ciclovía Av. San Borja Sur;Entre Av. Del Parque Sur y Av. Boulevard de Surco;SAN BORJA;METROPOLITANA;2.45;20231123
+LIMA;LIMA;LIMA;150101;C-74;Ciclovía Av. San Borja Norte;Entre Ca. Bernini y Av. Buena Vista (Alineado a Ca. 20), Entre Av. Rousseau y Av. Boulevard de Surco;SAN BORJA;METROPOLITANA;3.58;20231123
+LIMA;LIMA;LIMA;150101;C-75;Ciclovía Av. Camino Real;Entre Av. Choquehuanca y Av. Paz Soldán;SAN ISIDRO;METROPOLITANA;0.30;20231123
+LIMA;LIMA;LIMA;150101;C-76;Ciclovía Av. Emilio Cavenecia;Entre Av. Tudela y Varela y Óvalo Gutierrez;SAN ISIDRO;METROPOLITANA;0.38;20231123
+LIMA;LIMA;LIMA;150101;C-77;Ciclovía Av. Los Libertadores;Entre Av. Pardo Aliaga y Ca. Choquehuanca;SAN ISIDRO;METROPOLITANA;0.90;20231123
+LIMA;LIMA;LIMA;150101;C-78;Ciclovía Av. República de Panamá;Entre Ca. Castanitas y Av. Aramburú;SAN ISIDRO;METROPOLITANA;1.00;20231123
+LIMA;LIMA;LIMA;150101;C-79;Ciclovía Óvalo José Quiñones;Entre Ca. Remington y Av. Guardia Civil;SAN ISIDRO;METROPOLITANA;0.51;20231123
+LIMA;LIMA;LIMA;150101;C-80;Ciclovía Bajada Escardo Viru;Entre Costa Verde y Av. Costanera;SAN MIGUEL;METROPOLITANA;0.92;20231123
+LIMA;LIMA;LIMA;150101;C-81;Ciclovía Bajada John Lennon (Bajada de Bertoloto);Entre Av. Costar Verde y Av. Bertoloto;SAN MIGUEL;METROPOLITANA;0.64;20231123
+LIMA;LIMA;LIMA;150101;C-82;Ciclovía Brígida Silva de Ochoa;Entre Av. El Pacifico y Av. Prolongación Ayacucho;SAN MIGUEL;METROPOLITANA;0.40;20231123
+LIMA;LIMA;LIMA;150101;C-83;Ciclovía Av. Costanera;Entre Ca. 19 y Pje. San Martín;SAN MIGUEL;METROPOLITANA;1.96;20231123
+LIMA;LIMA;LIMA;150101;C-84;Ciclovía Av. La Mar;Entre Av. Parque de las leyendas y Av. Dintilhac;SAN MIGUEL;METROPOLITANA;0.26;20231123
+LIMA;LIMA;LIMA;150101;C-85;Ciclovía Av. Los Precursores;Entre Av. Parque de las Leyendas y Av.Los Insurgentes;SAN MIGUEL;METROPOLITANA;1.82;20231123
+LIMA;LIMA;LIMA;150101;C-86;Ciclovía Av. Los Patriotas;Entre Av. Insurgentes y Av. Rafael Escardo;SAN MIGUEL;METROPOLITANA;1.39;20231123
+LIMA;LIMA;LIMA;150101;C-87;Ciclovía Jr. Prolongación Ayacucho;Entre Av. Brigida Silva de Ochoa y Jr. Mariscal Castilla;SAN MIGUEL;METROPOLITANA;1.00;20231123
+LIMA;LIMA;LIMA;150101;C-88;Ciclovía Av. Pio XII;Entre Av. Insurgentes y Ca. Lapacheta;SAN MIGUEL;METROPOLITANA;0.44;20231123
+LIMA;LIMA;LIMA;150101;C-89;Ciclovía Av. Parque de las Leyendas;Entre Av. Elmer Faucett y Ca. s/n, Entre Av. Los Precursores y Av. La Mar;SAN MIGUEL;METROPOLITANA;0.20;20231123
+LIMA;LIMA;LIMA;150101;C-90;Ciclovía Av. Primavera;Entre Av. Buena Vista y Av. De los Precursores;SANTIAGO DE SURCO;METROPOLITANA;1.55;20231123
+LIMA;LIMA;LIMA;150101;C-91;Ciclovía Av. Velasco Astete - Santiago de Surco;Entre Jr. Juan Germán Lapeyre y Av. Las Nazarenas;SANTIAGO DE SURCO;METROPOLITANA;0.19;20231123
+LIMA;LIMA;LIMA;150101;C-92;Ciclovía Av. República de Panamá;Entre Av. Sergio Bernales y Av. Mariscal Cáceres;SURQUILLO;METROPOLITANA;0.08;20231123
+LIMA;LIMA;LIMA;150101;C-93;Ciclovía Plaza Civica de Santa Clara;Entre Av. Santa Rosa y Av. Independencia;ATE;METROPOLITANA;0.28;20231123
+LIMA;LIMA;LIMA;150101;C-94;Ciclovía Av. Separadora Industrial - Ate Vitarte;Entre Av. La Molina y Av. Panamericana Sur, Entre Av. Panamericana Sur y Av. Los Quechuas;ATE;METROPOLITANA;3.10;20231123
+LIMA;LIMA;LIMA;150101;C-95;Ciclovía Av. Alameda del Corregidor;Entre Av. La Molina y Av. Los Fresnos;LA MOLINA;METROPOLITANA;5.59;20231123
+LIMA;LIMA;LIMA;150101;C-96;Ciclovía Av. Huarochirí - La Molina;Entre Óvalo Huarochirí y Av. Separadora Industrial;LA MOLINA;METROPOLITANA;0.97;20231123
+LIMA;LIMA;LIMA;150101;C-97;Ciclovía Av. La Molina;Entre Av. Los Constructores hasta Óvalo de la Fontana;LA MOLINA;METROPOLITANA;0.95;20231123
+LIMA;LIMA;LIMA;150101;C-98;Ciclovía Ovalo Fontana;Óvalo Fontana;LA MOLINA;METROPOLITANA;0.27;20231123
+LIMA;LIMA;LIMA;150101;C-99;Ciclovía Av. La Molina(Huarochirí);Entre Jr. Ontario y Av. Rinconada del lago, Entre Av. El Sol y Av. Madre Selva;LA MOLINA;METROPOLITANA;3.60;20231123
+LIMA;LIMA;LIMA;150101;C-100;Ciclovía Av. La Universidad;Entre Av. Alameda del Corregidor hasta Av. Flora Tristán;LA MOLINA;METROPOLITANA;1.85;20231123
+LIMA;LIMA;LIMA;150101;C-101;Ciclovía Av. Melgarejo;Entre Óvalo Huarochirí y Av. La Universidad;LA MOLINA;METROPOLITANA;1.34;20231123
+LIMA;LIMA;LIMA;150101;C-102;Ciclovía Av. Raul Ferrero;Entre Av. Manuel Prado Ugarteche hasta Av. Alameda del Corregidor;LA MOLINA;METROPOLITANA;2.22;20231123
+LIMA;LIMA;LIMA;150101;C-103;Ciclovía Av. Separadora Industrial - La Molina;Entre Av. Los frutales (Hospital) y Av. La Molina, Entre Av. La Molina y Av. Huarochirí;LA MOLINA;METROPOLITANA;2.29;20231123
+LIMA;LIMA;LIMA;150101;C-104;Ciclovía Av. Jorge Basadre;Entre Av. Canto Grande y Av. Santa Rosa;SAN JUAN DE LURIGANCHO;METROPOLITANA;1.67;20231123
+LIMA;LIMA;LIMA;150101;C-105;Ciclovía Av. Los Jardines;Entre Av. Las Flores de Primavera y Av. Santa Rosa de Lima;SAN JUAN DE LURIGANCHO;METROPOLITANA;1.41;20231123
+LIMA;LIMA;LIMA;150101;C-106;Ciclovía Av. Los Postes;Entre Av. Flores de Primavera y Av. Santa Rosa;SAN JUAN DE LURIGANCHO;METROPOLITANA;1.50;20231123
+LIMA;LIMA;LIMA;150101;C-107;Ciclovía Av. Los Tusilagos;Entre Av. Flores de Primavera y Av. Santa Rosa;SAN JUAN DE LURIGANCHO;METROPOLITANA;1.62;20231123
+LIMA;LIMA;LIMA;150101;C-108;Ciclovía Av. Flores de Primavera ;Entre Av. Jorge Basadre y Av. Proceres de la Independencia ;SAN JUAN DE LURIGANCHO;METROPOLITANA;4.30;20231123
+LIMA;LIMA;LIMA;150101;C-109;Ciclovía Av. Huarochirí - Santa Anita;Entre Av. Nicolas Ayllón y Av. Metropolitana;SANTA ANITA;METROPOLITANA;1.26;20231123
+LIMA;LIMA;LIMA;150101;C-110;Ciclovía Av. Metropolitana (Huancaray);Entre Av. Colectora Industrial y Av. 22 de Julio;SANTA ANITA;METROPOLITANA;2.13;20231123
+LIMA;LIMA;LIMA;150101;C-111;Ciclovía Av. Alameda Sur;Entre Av. Huaylas y Av. Costanera;CHORRILLOS;METROPOLITANA;2.80;20231123
+LIMA;LIMA;LIMA;150101;C-112;Ciclovía Av. Las Gaviotas;Entre Av. Defensores de Morro y Prolong. Paseo de la República;CHORRILLOS;METROPOLITANA;0.27;20231123
+LIMA;LIMA;LIMA;150101;C-113;Ciclovía Av. Portillo Grande ( continuación de Martir Olaya);Entre Av. Martir Olaya y Av. Vía Periurbana IV;LURIN;METROPOLITANA;2.68;20231123
+LIMA;LIMA;LIMA;150101;C-114;Ciclovía Av. Pampas de Lurín;Entre Vía Periurbana IV y Av. Colectora Residencial;LURIN;METROPOLITANA;1.54;20231123
+LIMA;LIMA;LIMA;150101;C-115;Ciclovía Av. Prolongación Portillo;Entre Vía Periurbana IV y extensión;LURIN;METROPOLITANA;0.50;20231123
+LIMA;LIMA;LIMA;150101;C-116;Ciclovía Av. Lurín;Entre Av. Portillo Grande y Pampas de Lurín;LURIN;METROPOLITANA;0.78;20231123
+LIMA;LIMA;LIMA;150101;C-117;Ciclovía Av. Pedro Miotta;Entre Av. Pumacahua y Av. Belisario Suarez;SAN JUAN DE MIRAFLORES;METROPOLITANA;3.77;20231123
+LIMA;LIMA;LIMA;150101;C-118;Ciclovía Av. 200 Millas;Entre Av. Revolución y Av. Separadora Industrial;VILLA EL SALVADOR;METROPOLITANA;0.59;20231123
+LIMA;LIMA;LIMA;150101;C-119;Ciclovía Av. El Sol - Villa el Salvador;Entre Magisterio y Av. Pachacutec;VILLA EL SALVADOR;METROPOLITANA;3.10;20231123
+LIMA;LIMA;LIMA;150101;C-120;Ciclovía Av. Mariateguí;Entre Av. Pastor Sevilla y Av. Pachacutec;VILLA EL SALVADOR;METROPOLITANA;2.36;20231123
+LIMA;LIMA;LIMA;150101;C-121;Ciclovía Av. Pastor Sevilla;Entre Óvalo de Cocharcas hasta Av. 200 Millas;VILLA EL SALVADOR;METROPOLITANA;4.91;20231123
+LIMA;LIMA;LIMA;150101;C-122;Ciclovía Av. Vallejo;Entre Av. Pastor Sevilla y Av.Separadora Industrial;VILLA EL SALVADOR;METROPOLITANA;1.75;20231123
+LIMA;LIMA;LIMA;150101;C-123;Ciclovía Av. Separadora Industrial - Villa el Salvador;Entre Av. Mariateguí y Av. 200 Millas, Entre Av. 200 Millas y Av. Maria Reiche;VILLA EL SALVADOR;METROPOLITANA;2.89;20231123
+LIMA;LIMA;LIMA;150101;C-124;Ciclovía Av. Victor Malazquez;Entre Av. Ca. 83 y Ca. 38;PACHACAMAC;METROPOLITANA;1.88;20231123
+LIMA;LIMA;LIMA;150101;C-125;Ciclovía Jr. Bolognesi - Independencia;Entre Av. Industrial y Av. Panamericana Norte;INDEPENDENCIA;LOCAL;0.45;20231123
+LIMA;LIMA;LIMA;150101;C-126;Ciclovía Jr. Batalla de Junin;Entre Martinez de Pinillos y Jr. Mariscal José Antonio de Sucre;BARRANCO;LOCAL;0.33;20231123
+LIMA;LIMA;LIMA;150101;C-127;Ciclovía Av. El Sol - Barranco;Entre Malecon Paul Harris;BARRANCO;LOCAL;0.97;20231123
+LIMA;LIMA;LIMA;150101;C-128;Ciclovía Jr. Melgar;Entre Jr. Malecón Ramón Castilla;BARRANCO;LOCAL;0.18;20231123
+LIMA;LIMA;LIMA;150101;C-129;Ciclovía Malecón Poul Harris;Entre Av. San Martín y Jr. Centenario;BARRANCO;LOCAL;0.73;20231123
+LIMA;LIMA;LIMA;150101;C-130;Ciclovía Jr. Malecón Ramón Castilla;Entre Jr. Ayacucho y Jr. Melgar;BARRANCO;LOCAL;0.02;20231123
+LIMA;LIMA;LIMA;150101;C-131;Ciclovía Av. Malecón Souza;Entre Jr. Centenario y Jr. Martinez de Pinillos;BARRANCO;LOCAL;0.53;20231123
+LIMA;LIMA;LIMA;150101;C-132;Ciclovia Av. Nicolás de Piérola;Entre Av. Almirante Miguel Grau y Av. Francisco Bolognesi;BARRANCO;LOCAL;0.48;20231123
+LIMA;LIMA;LIMA;150101;C-133;Ciclovía Av. Pedro Heraud;Entre Av. El Sol y Jr. San Ambrosio;BARRANCO;LOCAL;0.56;20231123
+LIMA;LIMA;LIMA;150101;C-134;Ciclovía Av. Pedro de Osma;Entre Jr. Melgar y Jr. Indepencia;BARRANCO;LOCAL;0.48;20231123
+LIMA;LIMA;LIMA;150101;C-135;Ciclovía Av. San Martín;Entre Av. El Sol y Jr. Mariscal José Antonio de Sucre, Entre Av. Armendariz y Av. Malecón Poul Harris;BARRANCO;LOCAL;1.36;20231123
+LIMA;LIMA;LIMA;150101;C-136;Ciclovía Av. Grau;Entre Av. Nicolas de Pierola  y Jr. Colina;BARRANCO;LOCAL;0.49;20231123
+LIMA;LIMA;LIMA;150101;C-137;Ciclovía Av. Cayetano Heredia;Entre Jr. Pachacutec y Av. Mello Franco;JESUS MARIA;LOCAL;0.10;20231123
+LIMA;LIMA;LIMA;150101;C-138;Ciclovía Campo de Marte;Entre Jr. Nazca y Óvalo Jorge Chavez;JESUS MARIA;LOCAL;0.74;20231123
+LIMA;LIMA;LIMA;150101;C-139;Ciclovía Jr. Gral Canterac;Entre Av. General Garzon y Av. Arnaldo Marquez;JESUS MARIA;LOCAL;0.31;20231123
+LIMA;LIMA;LIMA;150101;C-140;Ciclovía Av. La Peruanidad;Entre Jr. Nazca y Óvalo Jorge Chavez;JESUS MARIA;LOCAL;0.72;20231123
+LIMA;LIMA;LIMA;150101;C-141;Ciclovía Av. Mariateguí;Entre Av. Arequipa y Av.Brasil;JESUS MARIA;LOCAL;2.26;20231123
+LIMA;LIMA;LIMA;150101;C-142;Ciclovía Jr. Nazca;Entre Av. Salaverry y Av. La Peruanidad;JESUS MARIA;LOCAL;0.47;20231123
+LIMA;LIMA;LIMA;150101;C-143;Ciclovía Jr. Pachacutec;Entre Av. Salaverry y Av. Cayetano heredia;JESUS MARIA;LOCAL;0.11;20231123
+LIMA;LIMA;LIMA;150101;C-144;Cíclovia Av. Mello Franco-2;Entre Av. Husares de Junín y Av. Cayetano Heredia;JESUS MARIA;LOCAL;0.19;20231123
+LIMA;LIMA;LIMA;150101;C-145;Ciclovía Jr. Abtao;Entre Av. Mexico y Jr. Humbdolt;LA VICTORIA;LOCAL;0.12;20231123
+LIMA;LIMA;LIMA;150101;C-146;Ciclovía Jr. Humboldt;Entre Av. La Mar y Jr. Abtao;LA VICTORIA;LOCAL;0.29;20231123
+LIMA;LIMA;LIMA;150101;C-147;Ciclovía Jr. San Cristóbal;Entre Av. Paseo de la República y Jr. Mendoza Merino;LA VICTORIA;LOCAL;0.79;20231123
+LIMA;LIMA;LIMA;150101;C-148;Ciclovía Jr. Los Corales;Entre Av. Las Américas - Av. Las Américas;LA VICTORIA;LOCAL;0.06;20231123
+LIMA;LIMA;LIMA;150101;C-149;Ciclovía Jr. Los Diamantes;Entre Av. Las Américas - Av. Las Américas;LA VICTORIA;LOCAL;0.06;20231123
+LIMA;LIMA;LIMA;150101;C-150;Ciclovía Av. La Mar;Entre Via expresa Grau y Av. Isabel la Catolica;LA VICTORIA;LOCAL;0.91;20231123
+LIMA;LIMA;LIMA;150101;C-151;Ciclovía Parque De La Muralla-Plaza Santa Rosa;Entre Jr. Amazonas y Av. Tacna;LIMA CERCADO;LOCAL;1.78;20231123
+LIMA;LIMA;LIMA;150101;C-152;Ciclovía Av. Industrial;Entre Av. Argentina y Av. Ferrocarril;LIMA CERCADO;LOCAL;0.85;20231123
+LIMA;LIMA;LIMA;150101;C-153;Ciclovía Av. Belisario Sosa Pelaez;Entre Av. Venezuela y Ca. Emilio Garcia Rosell;LIMA CERCADO;LOCAL;0.91;20231123
+LIMA;LIMA;LIMA;150101;C-154;Ciclovía Av. Alberto Alexander (Av. Nicaragua);Entre Av. César Vallejo y Av. General Trinidad Moran;LINCE;LOCAL;0.32;20231123
+LIMA;LIMA;LIMA;150101;C-155;Ciclovía Ca. Bartolome Herrera;Entre Av. Arenales y Av. Via Expresa;LINCE;LOCAL;0.90;20231123
+LIMA;LIMA;LIMA;150101;C-156;Ciclovía Av. Militar;Entre Jr. Domingo Casanova y Jr. Bartolomé Herrera;LINCE;LOCAL;0.54;20231123
+LIMA;LIMA;LIMA;150101;C-157;Ciclovía Jr. Los Jazminez;Entre Av. Arequipa y Av. Prolongación de Iquitos;LINCE;LOCAL;0.60;20231123
+LIMA;LIMA;LIMA;150101;C-158;Ciclovía Jr. Soledad;Entre Av. Prolongación de Iquitos y Av. Paseo de la República;LINCE;LOCAL;0.42;20231123
+LIMA;LIMA;LIMA;150101;C-159;Ciclovía Av. Francisco Lazo;Entre Av. José Pardo de Zela y Av. Prolongación de Iquitos;LINCE;LOCAL;0.41;20231123
+LIMA;LIMA;LIMA;150101;C-160;Ciclovía Jr. Diego Ferre;Entre Cdte Espinar y Jr. Tacna;MAGDALENA DEL MAR;LOCAL;0.07;20231123
+LIMA;LIMA;LIMA;150101;C-161;Ciclovía Av. Parque Gonzales Prada;Entre Ca. Inclan y Jr. Daniel hernandez;MAGDALENA DEL MAR;LOCAL;0.88;20231123
+LIMA;LIMA;LIMA;150101;C-162;Ciclovía Jr. Tacna;Entre Jr. Diego Ferre y Bajada Brasil;MAGDALENA DEL MAR;LOCAL;0.11;20231123
+LIMA;LIMA;LIMA;150101;C-163;Ciclovía Estadio Manuel Bonilla;Entre Ca. José Domingo Choquehuanca y Puente de la Amistad.;MIRAFLORES;LOCAL;0.35;20231123
+LIMA;LIMA;LIMA;150101;C-164;Ciclovía Av. La Paz;Entre Av. 28 de Julio y Bajada de Armendariz;MIRAFLORES;LOCAL;0.82;20231123
+LIMA;LIMA;LIMA;150101;C-165;Ciclovía Av. Malecón Cisneros;Entre Av. Malecón Balta y Av.José Pardo;MIRAFLORES;LOCAL;1.52;20231123
+LIMA;LIMA;LIMA;150101;C-166;Ciclovía Av. Malecón de la Marina;Entre Av. José Pardo y Ca. José Domingo Choquehuanca;MIRAFLORES;LOCAL;1.24;20231123
+LIMA;LIMA;LIMA;150101;C-167;Ciclovía Parque Keneddy;Entre Ca. Schell y Av. Larco;MIRAFLORES;LOCAL;0.32;20231123
+LIMA;LIMA;LIMA;150101;C-168;Ciclovia Av. Vasco Nuñez de Balboa;Entre Av. Malecon de la reserva y Av. el Reducto;MIRAFLORES;LOCAL;0.69;20231123
+LIMA;LIMA;LIMA;150101;C-169;Ciclovía Ca. García Calderón;Entre Ca. Elías Aguirre y Ca. Independencia;MIRAFLORES;LOCAL;0.12;20231123
+LIMA;LIMA;LIMA;150101;C-170;Ciclovía Ca. Independencia;Entre Ca. García Calderon y Ca. Ayacucho;MIRAFLORES;LOCAL;0.22;20231123
+LIMA;LIMA;LIMA;150101;C-171;Ciclovía Ca. María Parado de Bellido;Entre Ca. Independencia y Av. Arequipa;MIRAFLORES;LOCAL;0.22;20231123
+LIMA;LIMA;LIMA;150101;C-172;Ciclovía Ca. Sarrio;Entre Ca. Ayacucho y Ca. Elías Aguirre;MIRAFLORES;LOCAL;0.26;20231123
+LIMA;LIMA;LIMA;150101;C-173;Ciclovía Ca. Ayacucho;Entre Ca. Sarrio Ca. Independencia;MIRAFLORES;LOCAL;0.10;20231123
+LIMA;LIMA;LIMA;150101;C-174;Ciclovía Ca. Elías Aguirre;Entre Ca. Sarrio y Ca. García Calderon;MIRAFLORES;LOCAL;0.50;20231123
+LIMA;LIMA;LIMA;150101;C-175;Ciclovía Av. Armendariz;Entre Av. Larco y Ca. Dalias;MIRAFLORES;LOCAL;0.20;20231123
+LIMA;LIMA;LIMA;150101;C-176;Ciclovía Av. Bolognesi - Miraflores;Entre Av. Malecón Balta y Óvalo Bolognesí, Entre Óvalo Bolognesí y Av. José Pardo;MIRAFLORES;LOCAL;0.96;20231123
+LIMA;LIMA;LIMA;150101;C-177;Ciclovía Av. Malecón de la Reserva;Entre Av. Malecón Balta y Av. Larco;MIRAFLORES;LOCAL;1.98;20231123
+LIMA;LIMA;LIMA;150101;C-178;Ciclovía Av. Colombia;Entre Paseo de los Andes y Av. Brasil;PUEBLO LIBRE;LOCAL;1.10;20231123
+LIMA;LIMA;LIMA;150101;C-179;Ciclovía Av. Del Río;Entre Prolongacion Cayetano Heredia y Av. Colombia;PUEBLO LIBRE;LOCAL;0.89;20231123
+LIMA;LIMA;LIMA;150101;C-180;Ciclovía Av. José Ugarteche;Entre Prolongacion Cayetano Heredia y Av. Manuel Cipriano Dulanto;PUEBLO LIBRE;LOCAL;0.63;20231123
+LIMA;LIMA;LIMA;150101;C-181;Ciclovía Av. Paseo de los Andes;Entre Óvalo Plaza de la bandera y Av. Colombia;PUEBLO LIBRE;LOCAL;0.16;20231123
+LIMA;LIMA;LIMA;150101;C-182;Ciclovía Jr. Alberto Barajas;Entre Jr. Pietro Marchand y Pje Gregor Mendel;SAN BORJA;LOCAL;0.13;20231123
+LIMA;LIMA;LIMA;150101;C-183;Ciclovía Av. Bailetti;Entre Av. San Luis y Av. Circunvalación;SAN BORJA;LOCAL;1.22;20231123
+LIMA;LIMA;LIMA;150101;C-184;Ciclovía Av. Bielovucic Cavalier;Entre Av. Velasco Astete y Av. Buena Vista;SAN BORJA;LOCAL;0.51;20231123
+LIMA;LIMA;LIMA;150101;C-185;Ciclovía Ca. Berta Morisot;Entre Av. De las Artes Norte y Av. San Borja Norte;SAN BORJA;LOCAL;0.34;20231123
+LIMA;LIMA;LIMA;150101;C-186;Ciclovía Av. Boulevard de Surco;Entre Av. Las Artes y Av. San Luis;SAN BORJA;LOCAL;1.84;20231123
+LIMA;LIMA;LIMA;150101;C-187;Ciclovía Av. Buena Vista;Entre Av. San Borja Sur (Alineado a Ca. 20) y Av. Angamos;SAN BORJA;LOCAL;1.45;20231123
+LIMA;LIMA;LIMA;150101;C-188;Ciclovía Av. De la Poesía;Entre Av. Canadá y Av. Javier Prado;SAN BORJA;LOCAL;0.41;20231123
+LIMA;LIMA;LIMA;150101;C-189;Ciclovía Pje Gregor Mendel;Entre Jr. Alberto Barajas y Jr. Andres Vesalio;SAN BORJA;LOCAL;0.12;20231123
+LIMA;LIMA;LIMA;150101;C-190;Ciclovía Jr. López de Ayala;Entre Ca. Luini y Jr. Pietro Marchand;SAN BORJA;LOCAL;0.10;20231123
+LIMA;LIMA;LIMA;150101;C-191;Ciclovía Ca. de las Letras;Entre Av. Guardia Civil y Av. Aviación;SAN BORJA;LOCAL;0.42;20231123
+LIMA;LIMA;LIMA;150101;C-192;Ciclovía Ca. Las Magnolias;Entre Jr. Andreas Vesalio y Jr. Eduardo Ordoñez;SAN BORJA;LOCAL;0.10;20231123
+LIMA;LIMA;LIMA;150101;C-193;Ciclovía Jr. Los Sauces;Entre Av. Circunvalación y Av. Boulevar de Surco;SAN BORJA;LOCAL;0.10;20231123
+LIMA;LIMA;LIMA;150101;C-194;Ciclovía Ca. Luini;Entre Av. San Borja Norte y Jr. Lopez de Ayala;SAN BORJA;LOCAL;0.13;20231123
+LIMA;LIMA;LIMA;150101;C-195;Ciclovía Ca. Miguel Ángel;Entre Av. Javier Prado y Av. San Borja Norte;SAN BORJA;LOCAL;0.64;20231123
+LIMA;LIMA;LIMA;150101;C-196;Ciclovía Av. Malachowsky;Entre Av. Galvez Barrenechea y Av. Angamos;SAN BORJA;LOCAL;0.57;20231123
+LIMA;LIMA;LIMA;150101;C-197;Ciclovía Ca. Matier;Entre Av. San Borja Norte y Av. Fray Luis León;SAN BORJA;LOCAL;0.48;20231123
+LIMA;LIMA;LIMA;150101;C-198;Ciclovía Av. Ordoñez;Entre Jr. Gozzoli Sur y Av. Aviación;SAN BORJA;LOCAL;0.85;20231123
+LIMA;LIMA;LIMA;150101;C-199;Ciclovía Av. Paseo del Bosque;Entre Ca. Las Artes y Av. San Borja Sur;SAN BORJA;LOCAL;1.40;20231123
+LIMA;LIMA;LIMA;150101;C-200;Ciclovía Av. Paul Linder;Entre Jr. Ordoñez y Av. Aviación;SAN BORJA;LOCAL;0.50;20231123
+LIMA;LIMA;LIMA;150101;C-201;Ciclovía Av. Pietro Marchand;Entre Jr. Lopez de Ayala y Jr. Alberto  Barajas;SAN BORJA;LOCAL;0.99;20231123
+LIMA;LIMA;LIMA;150101;C-202;Ciclovía Av. Joaquín De la Madrid;Entre Av. Aviación y Av . San Luis;SAN BORJA;LOCAL;0.90;20231123
+LIMA;LIMA;LIMA;150101;C-203;Ciclovía Av. Velasco Astete - San Borja;Entre Av. Esmeralda y Av. Bielovucic, Entre Av. Paseo del Bosque y Av. San Borja Norte;SAN BORJA;LOCAL;1.00;20231123
+LIMA;LIMA;LIMA;150101;C-204;Ciclovía Av. 2 de Mayo;Entre Av. Arequipa y Ca. Los castaños;SAN ISIDRO;LOCAL;1.89;20231123
+LIMA;LIMA;LIMA;150101;C-205;Ciclovía Ca. Amador Merino Reyna;Entre Av. Rivera Navarrete y Av. Paseo Parodi;SAN ISIDRO;LOCAL;0.38;20231123
+LIMA;LIMA;LIMA;150101;C-206;Ciclovía Av. Andrés Reyes;Entre Av.Paseo de la Republica y Av.Paseo Parodi;SAN ISIDRO;LOCAL;0.80;20231123
+LIMA;LIMA;LIMA;150101;C-207;Ciclovía Ca. Antequera;Entre Ca. Las Casas y Av. Arequipa;SAN ISIDRO;LOCAL;0.10;20231123
+LIMA;LIMA;LIMA;150101;C-208;Ciclovía Ca. Barcelona;Entre Ca. Daniel Alcides y Av. Salaverry;SAN ISIDRO;LOCAL;0.15;20231123
+LIMA;LIMA;LIMA;150101;C-209;Ciclovía Ca. Las Begonias;Entre Ca. Dean Vladivia y Av. Republica de Colombia;SAN ISIDRO;LOCAL;0.67;20231123
+LIMA;LIMA;LIMA;150101;C-210;Ciclovía Av. Bustamante y Ballivián;Entre Pardo y Aliaga y Av. Emilio Cavenecia;SAN ISIDRO;LOCAL;0.10;20231123
+LIMA;LIMA;LIMA;150101;C-211;Ciclovía Ca. 21;Entre Av. Galvez barrenechea y Av. Pablo Carraquiri;SAN ISIDRO;LOCAL;0.63;20231123
+LIMA;LIMA;LIMA;150101;C-212;Ciclovía Ca. 41;Entre Av. Galvez barrenechea y Av. Pablo Carraquiri;SAN ISIDRO;LOCAL;0.63;20231123
+LIMA;LIMA;LIMA;150101;C-213;Ciclovía Ca. Chinchón;Entre Ca. Manuel A. Fuentes y Av. Arequipa;SAN ISIDRO;LOCAL;0.24;20231123
+LIMA;LIMA;LIMA;150101;C-214;Ciclovía Ca. Daniel Alcides Carrión;Entre Ca. Barcelona y Av. 2 de Mayo;SAN ISIDRO;LOCAL;0.11;20231123
+LIMA;LIMA;LIMA;150101;C-215;Ciclovía Av. El Bosque;Entre Av. Javier Prado Oeste y Av. Paz Soldan;SAN ISIDRO;LOCAL;0.37;20231123
+LIMA;LIMA;LIMA;150101;C-216;Ciclovía Av. Enrique Canaval y Moreyra;Entre Av. Pablo Caraquiri y Av.Paseo de la Republica;SAN ISIDRO;LOCAL;0.77;20231123
+LIMA;LIMA;LIMA;150101;C-217;Ciclovía Av. Juan de Arona;Entre Av Paseo de la Republica y Av. Arequipa;SAN ISIDRO;LOCAL;0.78;20231123
+LIMA;LIMA;LIMA;150101;C-218;Ciclovía Av. Jorge Basadre;Entre Av. Arequipa y Av. Javier Prado Oeste;SAN ISIDRO;LOCAL;0.17;20231123
+LIMA;LIMA;LIMA;150101;C-219;Ciclovía Ca. Las Castañitas;Entre Av. Pablo Carriquiry y Av. Republica de Panamá;SAN ISIDRO;LOCAL;0.31;20231123
+LIMA;LIMA;LIMA;150101;C-220;Ciclovía Ca. Las Casas;Entre Ca. Virrey Toledo y Ca. Antequera;SAN ISIDRO;LOCAL;0.16;20231123
+LIMA;LIMA;LIMA;150101;C-221;Ciclovía Ca. Manuel A. Fuentes;Entre Av. Andres Reyes y Av. Juan de Arona;SAN ISIDRO;LOCAL;0.24;20231123
+LIMA;LIMA;LIMA;150101;C-222;Ciclovía Av. Malecón Godofredo García;Entre Malecón Bernales y Ca.Godofredo García;SAN ISIDRO;LOCAL;0.57;20231123
+LIMA;LIMA;LIMA;150101;C-223;Ciclovía Ca. Miguel G. Seminario;Entre Av. Republica de Panamá y Av. Paseo de la República;SAN ISIDRO;LOCAL;0.28;20231123
+LIMA;LIMA;LIMA;150101;C-224;Ciclovía Ca. Olavide;Entre Av. Paseo Parodi y Ca. Virrey Toledo;SAN ISIDRO;LOCAL;0.13;20231123
+LIMA;LIMA;LIMA;150101;C-225;Ciclovía Ca. Ollanta;Entre Av. Javier Prado y Ca. Machaypuito;SAN ISIDRO;LOCAL;0.14;20231123
+LIMA;LIMA;LIMA;150101;C-226;Ciclovía Pasaje 26;Entre Óvalo José Quiñones u Ca. Ricardo Ángulo;SAN ISIDRO;LOCAL;0.10;20231123
+LIMA;LIMA;LIMA;150101;C-227;Ciclovía Óvalo 27 de Noviembre;Entre Av. República de Colombia y Av. República de Colombia;SAN ISIDRO;LOCAL;0.22;20231123
+LIMA;LIMA;LIMA;150101;C-228;Ciclovía Parque Bernales;Entre Parque de la Pera y Malecón Godofredo García;SAN ISIDRO;LOCAL;0.08;20231123
+LIMA;LIMA;LIMA;150101;C-229;Ciclovía Av. Pablo Carriquiry;Entre Av. Parque del Norte y Av.Parque del Sur;SAN ISIDRO;LOCAL;1.10;20231123
+LIMA;LIMA;LIMA;150101;C-230;Ciclovía Parque de la Pera;Entre Av. El Ejercito y Paque Bernales;SAN ISIDRO;LOCAL;0.34;20231123
+LIMA;LIMA;LIMA;150101;C-231;Ciclovía Av. Paz Soldan;Entre Av. Arequipa y Av. Conquistadores;SAN ISIDRO;LOCAL;0.36;20231123
+LIMA;LIMA;LIMA;150101;C-232;Ciclovía Ca. Remington;Entre Av. Parque del Norte y Av. Guardía Civil;SAN ISIDRO;LOCAL;0.17;20231123
+LIMA;LIMA;LIMA;150101;C-233;Ciclovía Ca. Ricardo Ángulo;Entre Ca. 21 y Ca. 41;SAN ISIDRO;LOCAL;0.22;20231123
+LIMA;LIMA;LIMA;150101;C-234;Ciclovía Ca. Ricardo Palma;Entre Av. Arequipa y Av. El Bosque;SAN ISIDRO;LOCAL;0.10;20231123
+LIMA;LIMA;LIMA;150101;C-235;Ciclovía Av. Rivera Navarrete;Entre Av. Juan de Arona y Av. Javier Prado Este;SAN ISIDRO;LOCAL;0.54;20231123
+LIMA;LIMA;LIMA;150101;C-236;Ciclovía Ca. Tordillas;Entre Av. Pablo Carriquiry y Av. Republica de Panamá;SAN ISIDRO;LOCAL;0.23;20231123
+LIMA;LIMA;LIMA;150101;C-237;Ciclovía Ca. Virrey Toledo;EntreCa. Olavide y Ca. Las Casas;SAN ISIDRO;LOCAL;0.10;20231123
+LIMA;LIMA;LIMA;150101;C-238;Ciclovía Parque del Bicentenario;Entre Ca. Godofredo García y Puente de la Amistad, Entre Puente de la Amistad y Av. Ejército;SAN ISIDRO;LOCAL;0.57;20231123
+LIMA;LIMA;LIMA;150101;C-239;Ciclovía Av. República de Colombia;Entre Av. Arequipa y Óvalo 27 de Noviembre, Av. Entre Óvalo 27 de Noviembre  y Av. Paseo de la República;SAN ISIDRO;LOCAL;0.60;20231123
+LIMA;LIMA;LIMA;150101;C-240;Ciclovía Av. Pardo y Aliaga;Entre Av. Camino Real y Av. Santa Cruz;SAN ISIDRO;LOCAL;0.47;20231123
+LIMA;LIMA;LIMA;150101;C-241;Ciclovía Av. Bertolotto;Entre Jr. Diego Aguero y Jr. Mariscal Ramon Castilla;SAN MIGUEL;METROPOLITANA;0.73;20231123
+LIMA;LIMA;LIMA;150101;C-242;Ciclovía Ca. Comandante Ladislao Espinar;Entre Ca. Manuel Estacio y Av. Costanera;SAN MIGUEL;LOCAL;0.39;20231123
+LIMA;LIMA;LIMA;150101;C-243;Ciclovía Ca. Pacamarca;Entre Av. Parque de las leyendas y Ca. Sara Sara;SAN MIGUEL;LOCAL;0.04;20231123
+LIMA;LIMA;LIMA;150101;C-244;Ciclovía Av. Dintilhac;Entre Av. La Mar y Ca. Manuel Estacio;SAN MIGUEL;LOCAL;1.31;20231123
+LIMA;LIMA;LIMA;150101;C-245;Ciclovía Ca. Hidalgo ;Entre Av. Pio XII y Ca. Hidalgo;SAN MIGUEL;LOCAL;0.06;20231123
+LIMA;LIMA;LIMA;150101;C-246;Ciclovía Ca. Incahuasi;Entre Ca. Sara Sara y Av. Los precursores;SAN MIGUEL;LOCAL;0.39;20231123
+LIMA;LIMA;LIMA;150101;C-247;Ciclovía Ca. Lapacheta;Entre Av. Elmer Faucett y Av. Pio XII;SAN MIGUEL;LOCAL;0.31;20231123
+LIMA;LIMA;LIMA;150101;C-248;Ciclovía Ca. Manuel Estancio;Entre Av. Dinthilac y Ca. Comandante Ladislao Espinar;SAN MIGUEL;LOCAL;0.12;20231123
+LIMA;LIMA;LIMA;150101;C-249;Ciclovía Jr. Mariscal Ramon Castilla;Entre Av. Comandante Espinar y Jr. Prolonganción Ayacucho;SAN MIGUEL;LOCAL;1.00;20231123
+LIMA;LIMA;LIMA;150101;C-250;Ciclovía Ca. S/N;Entre Calle Sara Sara y Av. Parque de las leyendas;SAN MIGUEL;LOCAL;0.03;20231123
+LIMA;LIMA;LIMA;150101;C-251;Ciclovía Ca. Sara Sara;Entre Ca. Pacamarca y Ca. S/N;SAN MIGUEL;LOCAL;0.15;20231123
+LIMA;LIMA;LIMA;150101;C-252;Ciclovía Jr. Almirante Miguel Grau;Entre Jr. Monitor Huascar y Jr. Combate de Iquique;SANTIAGO DE SURCO;LOCAL;0.16;20231123
+LIMA;LIMA;LIMA;150101;C-253;Ciclovía Jr. Batalla de San Juan;Entre Jr. Morro Solar y Jr. Batallón Tarma;SANTIAGO DE SURCO;LOCAL;0.57;20231123
+LIMA;LIMA;LIMA;150101;C-254;Ciclovía Jr. Batallón Tarma;Entre Jr.Batalla de San Juan y Av. De los Precursores;SANTIAGO DE SURCO;LOCAL;1.15;20231123
+LIMA;LIMA;LIMA;150101;C-255;Ciclovía Jr. Combate de Iquique;Entre Jr. Almirante Miguel Grau y Av. Los Vicus;SANTIAGO DE SURCO;LOCAL;0.28;20231123
+LIMA;LIMA;LIMA;150101;C-256;Ciclovía Ca. Castilla La Vieja;Entre Av. Paseo La Castellana y Ca. Hermanos Quinteros;SANTIAGO DE SURCO;LOCAL;0.30;20231123
+LIMA;LIMA;LIMA;150101;C-257;Ciclovía Av. de los Ingenieros;Entre Jr. Jacarandá y Jr. Cerro Lindo;SANTIAGO DE SURCO;LOCAL;0.24;20231123
+LIMA;LIMA;LIMA;150101;C-258;Ciclovía Av. De Los Precursores;Entre Jr. Batallón Tarma y Av. Primavera;SANTIAGO DE SURCO;LOCAL;0.74;20231123
+LIMA;LIMA;LIMA;150101;C-259;Ciclovía Jr. Fernando Castrat;Entre Jr. Gral. Luis La Puerta y Av. Nicolas de Piérola;SANTIAGO DE SURCO;LOCAL;0.73;20231123
+LIMA;LIMA;LIMA;150101;C-260;Ciclovía Jr. Juan Germán Lapeyre;Entre Parque Matellini Freundt y Av. Alejandro Astete;SANTIAGO DE SURCO;LOCAL;0.55;20231123
+LIMA;LIMA;LIMA;150101;C-261;Ciclovía Av. Las Casuarinas;Entre Av. Buganvilla y Jr. Las Gardenías;SANTIAGO DE SURCO;LOCAL;0.28;20231123
+LIMA;LIMA;LIMA;150101;C-262;Ciclovía Av. Los Castillos;Entre Jr. Belisario Suarez y Jr. Franklin Roosvelt;SANTIAGO DE SURCO;LOCAL;0.69;20231123
+LIMA;LIMA;LIMA;150101;C-263;Ciclovía Av. Las Nazarenas;Entre Av. Velasco Astete y Jr. Morro Solar;SANTIAGO DE SURCO;LOCAL;1.00;20231123
+LIMA;LIMA;LIMA;150101;C-264;Ciclovía Jr. Monitor Huascar;Entre Jr. San Pedrito y Jr. Almirante Miguel Grau;SANTIAGO DE SURCO;LOCAL;0.25;20231123
+LIMA;LIMA;LIMA;150101;C-265;Ciclovía Jr. Morro Solar;Entre Av. Las Nazarenas y Jr. Batalla de San Juan;SANTIAGO DE SURCO;LOCAL;0.77;20231123
+LIMA;LIMA;LIMA;150101;C-266;Ciclovía Parque Matellini Freundt;Circuito en Parque de la Bicicleta;SANTIAGO DE SURCO;LOCAL;0.66;20231123
+LIMA;LIMA;LIMA;150101;C-267;Ciclovía Jr. San Pedrito;Entre Jr. Franklin Roosvelt y Jr. Monitor Huascar;SANTIAGO DE SURCO;LOCAL;0.37;20231123
+LIMA;LIMA;LIMA;150101;C-268;Ciclovía Av. Vicus;Entre Av. Paseo de la Republica y Av. Tomas Marsano;SANTIAGO DE SURCO;LOCAL;1.17;20231123
+LIMA;LIMA;LIMA;150101;C-269;Ciclovía Ca. Calera;Entre Av. Principal y Av. Tomás Marsano;SURQUILLO;LOCAL;0.45;20231123
+LIMA;LIMA;LIMA;150101;C-270;Ciclovía Ca. Julian Sandoval;Entre Ca. Rizo Patrón y Av. Victor Alzamora;SURQUILLO;LOCAL;0.11;20231123
+LIMA;LIMA;LIMA;150101;C-271;Ciclovía Av. Principal;Entre Av. Manuel Villarán y Av. Angamos;SURQUILLO;LOCAL;1.00;20231123
+LIMA;LIMA;LIMA;150101;C-272;Ciclovía Ca. Rizo Patron;Entre Av. Tomas Marsano y Ca. Julian Sandoval;SURQUILLO;LOCAL;0.02;20231123
+LIMA;LIMA;LIMA;150101;C-273;Ciclovía Av. Sergio Bernales;Entre Av. Sergio Bernales y Av. República de Panamá;SURQUILLO;LOCAL;0.65;20231123
+LIMA;LIMA;LIMA;150101;C-274;Ciclovía Victor Alzamora;Entre Ca. Julian Sandoval y Av. Sergio Bernales;SURQUILLO;LOCAL;0.25;20231123
+LIMA;LIMA;LIMA;150101;C-275;Ciclovía Ca. Varela y Orbegoso;Entre Av. Ricardo Palma y Av. Angamos;SURQUILLO;LOCAL;0.65;20231123
+LIMA;LIMA;LIMA;150101;C-276;Ciclovía El Bosque;Entre Ca. Bonnemaison y Ca. Bonnemaison;ATE;LOCAL;0.70;20231123
+LIMA;LIMA;LIMA;150101;C-277;Ciclovía Av. Circunvalación (Auxiliar);Entre Av. Los Mochicas y Av. Aymaras;ATE;METROPOLITANA;0.10;20231123
+LIMA;LIMA;LIMA;150101;C-278;Ciclovía Av. Los Mochicas;Entre Av. Los Quechuas y Av. Circunvalación;ATE;LOCAL;0.3;20231123
+LIMA;LIMA;LIMA;150101;C-279;Ciclovía Av. Aymaras;Entre Av. Circunvalación y Av. Los Quechuas;ATE;LOCAL;0.4;20231123
+LIMA;LIMA;LIMA;150101;C-280;Ciclovía Av. Los Parques;Entre Ca. Elías Aguirre y Ca. Elías Aguirre;ATE;LOCAL;0.60;20231123
+LIMA;LIMA;LIMA;150101;C-281;Ciclovía Av. Los Lirios;Entre Ca. Elías Aguirre y Ca. S/N;ATE;LOCAL;0.10;20231123
+LIMA;LIMA;LIMA;150101;C-282;Ciclovía Av. Malecón de la Amistad;Entre Puente Chinchaysuyo y puente peatonal de madera (por Pte. Las Lomas);EL AGUSTINO;LOCAL;0.76;20231123
+LIMA;LIMA;LIMA;150101;C-283;Ciclovía Av. Manuel Prado Ugarteche;Entre Av. La Universidad y Ca. 13;LA MOLINA;LOCAL;1.67;20231123
+LIMA;LIMA;LIMA;150101;C-284;Ciclovía Jr. Paseo de Los Eucaliptos;Entre Av. las Palmeras y Ca. Fontanar;LA MOLINA;LOCAL;1.85;20231123
+LIMA;LIMA;LIMA;150101;C-285;Ciclovía Av. San Hilarión;Entre Av. Canto Grande y Av. 13 de Enero;SAN JUAN DE LURIGANCHO;LOCAL;1.16;20231123
+LIMA;LIMA;LIMA;150101;C-286;Ciclovía Ca. Río Amazonas;Entre Av. Quechua y Av. Quechua;SAN LUIS;LOCAL;0.10;20231123
+LIMA;LIMA;LIMA;150101;C-287;Ciclovía Av. Los Quechuas;Entre Av. Separadora Industrial y Av. Aymaras , Entre Ca.Río Amazonas y Av. Los Mochicas;SAN LUIS;LOCAL;0.15;20231123
+LIMA;LIMA;LIMA;150101;C-288;Ciclovia Av. Los Ficus (Av. Manuel de la Torre);Entre Av. Los Cipreses y Av. Bolognesi;SANTA ANITA;LOCAL;0.47;20231123
+LIMA;LIMA;LIMA;150101;C-289;Ciclovia Ca. Los Nogales (Av. Nugget);Entre Ca. Madreselva y Av. Robles;SANTA ANITA;LOCAL;0.57;20231123
+LIMA;LIMA;LIMA;150101;C-290;Ciclovia Av. Alameda Costanera;Entre Av. Alameda Sur y Av. Alameda Los Horizontes;CHORRILLOS;LOCAL;1.13;20231123
+LIMA;LIMA;LIMA;150101;C-291;Ciclovía Jr. Balarezo;Entre Av. Malecón Grau y Malecón Grau Auxiliar;CHORRILLOS;LOCAL;0.04;20231123
+LIMA;LIMA;LIMA;150101;C-292;Ciclovía Av. Malecón Grau;Entre Jr. García y Jr. Balarezo;CHORRILLOS;LOCAL;0.40;20231123
+LIMA;LIMA;LIMA;150101;C-293;Ciclovía Av. Malecón Grau Auxiliar;Entre Jr. Balarezo y Av. Chorrillos;CHORRILLOS;LOCAL;1.56;20231123
+LIMA;LIMA;LIMA;150101;C-294;Ciclovía Ca. S/N 1;Entre Av. Portillo Grande y Pampas de Lurín;LURIN;LOCAL;0.42;20231123
+LIMA;LIMA;LIMA;150101;C-295;Ciclovía Ca. S/N 2;Entre Av. Portillo Grande y Pampas de Lurín;LURIN;LOCAL;0.46;20231123
+LIMA;LIMA;LIMA;150101;C-296;Ciclovía Av. García Radá;Entre Antigua Panamericana y Av. Punta Hermosa;PUNTA HERMOSA;LOCAL;0.99;20231123
+LIMA;LIMA;LIMA;150101;C-297;Ciclovía Av. Sunset;Entre Av. García Rada y Av. Jorge Martin Guise;PUNTA HERMOSA;LOCAL;0.54;20231123
+LIMA;LIMA;LIMA;150101;C-298;Ciclovía Jr. Ayacucho;Entre Av. San Martín y Jr. Malecón Mariscal Ramón Castilla;BARRANCO;LOCAL;0.21;20231123
