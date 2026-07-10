@@ -18,6 +18,9 @@ fs.createReadStream(
 })
 .on("end", () => {
     console.log("Dataset cargado:", datos.length);
+})
+.on("error", (err) => {
+    console.error("Error cargando dataset:", err.message);
 });
 
 function obtenerRiesgoPorNombre(nombre) {
@@ -30,11 +33,6 @@ function obtenerRiesgoPorNombre(nombre) {
 
     return distrito || null;
 }
-
-module.exports = {
-    obtenerRiesgo,
-    obtenerRiesgoPorNombre
-};
 
 function obtenerRiesgo(distrito){
 
@@ -69,5 +67,6 @@ function obtenerRiesgo(distrito){
 }
 
 module.exports = {
-    obtenerRiesgo
+    obtenerRiesgo,
+    obtenerRiesgoPorNombre
 };
