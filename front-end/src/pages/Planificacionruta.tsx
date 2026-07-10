@@ -112,23 +112,36 @@ const Planificacionruta: React.FC = () => {
   };
 
   const obtenerUbicacionActual = async () => {
-    try {
-      setCargandoOrigen(true);
+    setCargandoOrigen(true);
+    setError("");
 
+    let lat: number;
+    let lon: number;
+
+    // Paso 1: GPS del dispositivo
+    try {
       const posicion = await Geolocation.getCurrentPosition();
-      const lat = posicion.coords.latitude;
-      const lon = posicion.coords.longitude;
+      lat = posicion.coords.latitude;
+      lon = posicion.coords.longitude;
 
       setubicacionActual({ lat, lon });
+    } catch (e) {
+      console.error("Error obteniendo GPS:", e);
+      setError(
+        "No se pudo obtener tu ubicación del dispositivo. Revisa los permisos de ubicación del navegador/app."
+      );
+      setCargandoOrigen(false);
+      return;
+    }
 
-      // Resolvemos el distrito a partir del GPS para poder usarlo como
-      // texto de origen (el backend geocodifica por texto en /ruta).
+    // Paso 2: resolver el distrito llamando a NUESTRO backend (/reversa)
+    try {
       const distrito = await obtenerDistritoActual(lat, lon);
       setorigen(distrito);
     } catch (e) {
-      console.log(e);
+      console.error("Error llamando a /reversa en el backend:", e);
       setError(
-        "No se pudo obtener tu ubicación. Activa el GPS e intenta de nuevo."
+        "Tu GPS funciona, pero no se pudo contactar al servidor para resolver tu distrito (revisa que el backend esté corriendo y que VITE_API_URL sea correcto)."
       );
     } finally {
       setCargandoOrigen(false);
